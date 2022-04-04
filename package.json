@@ -24,6 +24,8 @@
     "ws": "^8.5.0"
   },
   "devDependencies": {
-    "express": "^4.17.3"
+    "bufferutil": "^4.0.6",
+    "express": "^4.17.3",
+    "utf-8-validate": "^5.0.9"
   }
 }
